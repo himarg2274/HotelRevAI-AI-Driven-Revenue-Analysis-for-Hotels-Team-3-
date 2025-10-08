@@ -30,5 +30,4 @@ Run the interactive app to:
 - Analyze cancellation risk
 - View booking trends
 
-```bash
-streamlit run app.py
+
